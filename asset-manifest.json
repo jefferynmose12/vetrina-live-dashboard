@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vetrina-live-dashboard/static/css/main.5b059bdf.css",
+    "main.js": "/vetrina-live-dashboard/static/js/main.91e6d643.js",
+    "static/media/iPhone.svg": "/vetrina-live-dashboard/static/media/iPhone.c8df196c6bb4082f00611b73f8665636.svg",
+    "static/media/person.svg": "/vetrina-live-dashboard/static/media/person.757de92e863f61595703eb3ad56e470e.svg",
+    "static/media/googleplay.png": "/vetrina-live-dashboard/static/media/googleplay.1053eedcfd2d136931e9.png",
+    "static/media/world.svg": "/vetrina-live-dashboard/static/media/world.58a7fc9d011d2273b46320ccdf476703.svg",
+    "index.html": "/vetrina-live-dashboard/index.html",
+    "static/media/extension.svg": "/vetrina-live-dashboard/static/media/extension.2a8dbcbbefd4b5153234c5c0954e08e5.svg",
+    "main.5b059bdf.css.map": "/vetrina-live-dashboard/static/css/main.5b059bdf.css.map",
+    "main.91e6d643.js.map": "/vetrina-live-dashboard/static/js/main.91e6d643.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b059bdf.css",
+    "static/js/main.91e6d643.js"
+  ]
+}
